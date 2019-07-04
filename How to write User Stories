@@ -1,0 +1,32 @@
+How to write User Stories
+https://hackernoon.com/how-to-write-good-user-stories-97ae48b4b34a
+
+
+Five things that’ll take your user story from good to great
+1. User stories are independent of each other
+2. Don’t confuse user stories with tasks
+3. Provide value to users
+4. They are negotiable
+5. Big enough to be broken down to tasks and estimable
+
+1. Role — Feature — Reason format
+Also known as the Connextra format in recognition of its origin when it was created at Connextra in the UK.
+
+As a [role] I can [capability], so that [receive benefit]
+
+2. Another version of writing a user story
+As a [particular user], I want to [be able to perform/do something] so that [I get some form of value or benefit].
+
+3. The persona’s goal: Why they need the particular functionality/feature and what benefit they want to achieve from it.
+The hard part is getting these 3 data points accurate. You need to do your research, talk to your users, and understand their needs. And only then, after you’ve collected enough information, you’ll be able to write good user stories using this template:
+As a [persona], I want [need] so that [goal].
+
+Acceptance criteria can include:
+
+1. User experience
+2. The current user story’s effect on existing feature
+3. A key performance like speed
+4. What the feature was intended to do
+
+Note: Like user stories, acceptance criteria is not a task. 
+They are a technique for adding functional details to user stories.
